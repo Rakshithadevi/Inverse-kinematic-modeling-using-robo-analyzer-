@@ -53,6 +53,8 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### output:
 ## 3R:
+![image](https://user-images.githubusercontent.com/94165326/174304660-cd0e70f9-1d62-4471-b60a-6b7bfa4521d9.png)
+
 
  
  
